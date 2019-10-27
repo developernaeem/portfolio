@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Rage Italic';
+    src: url('fonts/RAGE.eot');
+    src: url('fonts/RAGEd41d.eot?#iefix') format('embedded-opentype'),
+         url('fonts/RAGE.html') format('woff2'),
+         url('fonts/RAGE.woff') format('woff'),
+         url('fonts/RAGE-2.html')  format('truetype'),
+         url('fonts/RAGE.svg#Rage Italic') format('svg');
+}
